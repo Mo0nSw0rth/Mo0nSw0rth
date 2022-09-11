@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mo0nSw0rth
 - 👀 I’m interested in Minecraft & coding
 - 🌱 I’m currently learning Java
-- 📫 How to reach me 𝕸𝖔0𝖓𝕾𝖜0𝖗𝖙𝖍#1624
+- 📫 How to reach me Mo0nSw0rth#2100
