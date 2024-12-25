@@ -24,7 +24,7 @@ Back-End Development:
 <p align="left">
   <a href="https://skillicons.dev">
     <dl>
-      <dd><img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,dotnet,fastapi,flask,gradle,graphql,kafka,mysql,postgres,redis" /></dd>
+      <dd><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,flask,gradle,graphql,kafka,mysql,postgres,redis" /></dd>
     </dl>
   </a>
 </p>
