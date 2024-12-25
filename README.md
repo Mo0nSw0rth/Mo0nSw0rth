@@ -14,7 +14,7 @@ Front-End Development:
 <p align="left">
   <a href="https://skillicons.dev">
     <dl>
-      <dd><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,electron" /></dd>
+      <dd><img src="https://skillicons.dev/icons?i=html,css,js,react,electron" /></dd>
     </dl>
   </a>
 </p>
